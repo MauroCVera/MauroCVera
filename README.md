@@ -94,4 +94,5 @@ Soy desarrollador web, técnico en infraestructura IT y estudiante avanzado de *
 <div align="center">
   <i>"La seguridad y la ética no son un parche final; se diseñan desde la primera línea de código."</i>
 </div>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,github,linux,linkedin,nodejs)](https://skillicons.dev)
+
+
