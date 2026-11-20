@@ -9,6 +9,7 @@
 [![Ubicación](https://img.shields.io/badge/Buenos_Aires-Argentina-75AADB?style=for-the-badge&logo=googlemaps&logoColor=white)]()
 [![SAIA](https://img.shields.io/badge/SAIA_Member-SA--294-4A154B?style=for-the-badge)]()
 
+![My Skills](https://skillicons.dev/icons?i=js,html,css,github,linux,linkedin,nodejs)
 </div>
 
 ---
@@ -31,6 +32,7 @@ Soy desarrollador web, técnico en infraestructura IT y estudiante avanzado de *
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
