@@ -9,7 +9,7 @@
 [![Ubicación](https://img.shields.io/badge/Buenos_Aires-Argentina-75AADB?style=for-the-badge&logo=googlemaps&logoColor=white)]()
 [![SAIA](https://img.shields.io/badge/SAIA_Member-SA--294-4A154B?style=for-the-badge)]()
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,github,linux,linkedin,nodejs)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,github,linux,ubuntu,wordpress,gcp,nodejs,sublime,ps,linkedin)
 </div>
 
 ---
